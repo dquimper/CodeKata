@@ -2,7 +2,7 @@ Intro
 =====
 
 This is my implementation of the kata8 presented at:
-http://...
+http://codekata.pragprog.com/
 
 Files
 =====
