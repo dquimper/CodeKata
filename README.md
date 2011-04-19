@@ -7,6 +7,8 @@ http://codekata.pragprog.com/
 Files
 =====
 
+Kata8
+-----
  - kata8a.rb is the clean implementation.
  - kata8b.rb is the fast implementation.
  - kata8c.rb is a multitread implementation (which is actually slower than kata8b)
