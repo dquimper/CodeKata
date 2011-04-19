@@ -1,4 +1,4 @@
-require 'timer'
+require "#{File.dirname(__FILE__)}/../lib/timer"
 
 # Starting a new projet, I try to follow the "Make It Work",
 # "Make It Right", "Make It Fast".
